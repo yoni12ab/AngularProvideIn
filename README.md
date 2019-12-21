@@ -1,5 +1,7 @@
 # DIExample
 
+Simulate multiple services injected with providers vs provideIn 'root'
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
 ## Development server
